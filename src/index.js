@@ -1,5 +1,5 @@
 // import { deleteUser, getUserId, setUser, updateUser } from "./User/";
-// import tokenAccess from "./GetToken/getToken";
+import tokenAccess from "./GetToken/getToken";
 // import {
 //   deleteAddress,
 //   getAddressInfos,
