@@ -1,0 +1,17 @@
+{
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/epicswan/mercifacteurlib.git"
+    }
+  ],
+  "require": {
+    "epicswan/mercifacteurlib": "dev-php",
+    "composer/installers": "^1"
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
+}
